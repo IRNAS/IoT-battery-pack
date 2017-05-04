@@ -1,0 +1,30 @@
+CAM output for current project LTC MPPT addon 1.1.T3001
+Output on 27. mar 2017, 14:58h
+Current project created using TARGET 17.9.0.69 economy
+Output created using TARGET 3001! V17.9.0.69
+DELIVERY ADDRESS:
+  
+  
+  
+  GB- 
+  Tel: 
+  FAX: 
+  eMail: 
+Size of PCB: 26,035 mm x 16,51 mm
+
+Description of created files as follows:
+
+LTC MPPT addon 1.1.Top = 16 = Copper top L1   ( *.Top )
+LTC MPPT addon 1.1.Bot = 2 = Copper bottom L2   ( *.Bot )
+LTC MPPT addon 1.1.Tool = drill tool list
+LTC MPPT addon 1.1.Drill = Galvanised drills
+LTC MPPT addon 1.1.Outline = 23 = PCB outline   ( *.Outline )
+LTC MPPT addon 1.1.StopTop = 18 = Solder stop mask top   ( *.StopTop )
+LTC MPPT addon 1.1.StopBot = 4 = Solder stop mask bottom   ( *.StopBot )
+LTC MPPT addon 1.1.PosiTop = 21 = Placement print top   ( *.PosiTop )
+LTC MPPT addon 1.1.PosiBot = 7 = Placement print bottom   ( *.PosiBot )
+LTC MPPT addon 1.1.PasteTop = 19 = Solder paste top   ( *.PasteTop )
+LTC MPPT addon 1.1.PasteBot = 5 = Solder paste bottom   ( *.PasteBot )
+LTC MPPT addon 1.1.Apr = TARGET 3001! aperture list
+LTC MPPT addon 1.1.Whl = Eagle compatible aperture list
+

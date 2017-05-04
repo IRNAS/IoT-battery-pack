@@ -42,19 +42,19 @@ IMPORTANT!
 *By default, 3V3 output is always active and is disabled only, when under-voltage condition occurs (set to approx. 3V using R26 and R31). If you want to enable 3V3_enable control, R26 must be removed.*
 
 ### J8 + micro USB (middle right): +5 VDC power supply
-Input for stabilized 5V power supply, which is connected to the charging chip via diode D10. By default (if no charging module is installed) charging current is set to 0,7 A.
-If you want to increase charging current, connect +5V to U_sense pin (J12, pin 3; yellow/pink).
+Input for stabilized 5V power supply. Circuit around T2 serves adjusting charging current in a way, that if +5V power line drops, charging current is gradually reduced from approx. 1,8 A to 0,5 A at approx. 4,5 V.
 
 ### J9 (bottom right): external charging voltage (JST 2-pole)
+
 Input for solar panel or other power source (voltage depends on a module installed).
 
 ### J11, J12 (bottom middle): connectors for add-on charging board
-Module has prepared option to install add-on module with additional charger; this way i.e. MPPT module or wide-range DCDC charger can be installed and replaced if required.
-There are also I2C pins present at J12 as well as one additional pin from MCU as well se Usense pin, which regulates charging current for the on-board charging chip.
+
+Module has prepared option to install add-on module with additional charger; this way i.e. MPPT module or wide-range DCDC charger can be installed and replaced if required. There are also I2C pins present at J12 as well as one additional pin from MCU as well as Usense pin, which regulates charging current for the on-board charging chip.
 
 ### J13 (bottom middle): connector for battery NTC thermistor (10k)
-NTC thermistor must be thermally attached to the battery cell.
 
+NTC thermistor must be thermally attached to the battery cell.
 
 # IoT battery pack requirements
 IoT battery pack is designed to provide power in various sensing applications, being able to deliver sufficient power for a wide range of sensors for short periods of time and have a long standby operation time between them. BLE interface allows users to configure it as well as provide a communication channel to talk to other sensors in the vicinity.
