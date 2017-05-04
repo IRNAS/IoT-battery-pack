@@ -10,11 +10,11 @@ The module itself is equipped with switcher battery charger, where charging curr
 
 The module can be equipped with Nordic nRF51822 microprocessor (M0 with BLE), that can be used to monitor and control charging process. Additionally, fuel gauge MAX17201 chip is integrated, which can monitor all battery parameters such as voltage, current, temperature, calculates state-of-charge (SOC), state-of-health (SOH) and many other parameters.
 
-![Battery-module](/img/battery-1.jpg)
+![Battery-module](docs/battery-1.jpg)
 
 ## BASIC BOARD OVERVIEW
 
-![diagram](IoT-battery-pack-pinout.png)
+![diagram](docs/IoT-battery-pack-pinout.png)
 
 ### J2, J3, J4 (bottom left): Battery connectors, 3 pcs (JST 2-pole)
 Connect to lithium battery pack. 3 packs can be connected simoultanously. Each branch is protected using 5A SMD fuse.
@@ -24,7 +24,7 @@ IMPORTANT!
 
 ### J6 (top left): PWR connector (IDC10):
 
-![diagram](Iot-batpack-j6.png)
+![diagram](docs/Iot-batpack-j6.png)
 
 1. - I2C SCL (3V3)
 2. - I2C SDA (3V3)
