@@ -8,7 +8,7 @@ IoT battery pack is an universal solution for solar powered IoT projects impleme
 
 ![IoT modular](IoT-battery-pack-modular.png)
 
-The system is broken down into standalone modules one can combine in a number fo ways.
+The system is broken down into standalone modules one can combine in a number of ways.
 
 ## Charging modules
 Charging modules provide the interface between a power source and the single cell battery.
@@ -28,19 +28,19 @@ Providing useful output for various applications.
 Interfacing the battery to the rest of the circuitry.
 
  * Battery protection module:
-  * Over-voltage
-  * Under-voltage
-  * Over-temperature
+   * Over-voltage
+   * Under-voltage
+   * Over-temperature
  * Battery charge controller - fuel gauge via I2C
 
 ## Backplane modules
 General purpose or application specific, simple power routing board that can be easily developed and soldered.
 
  * General purpose backplane
-  * Up to 2 charging modules
-  * Up to 3 output modules
-  * One battery protection module
-  * One battery monitoring module
+   * Up to 2 charging modules
+   * Up to 3 output modules
+   * One battery protection module
+   * One battery monitoring module
 
 
 ---
