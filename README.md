@@ -6,7 +6,7 @@ This repository contains the design of a modular IoT battery pack based on the i
 
 IoT battery pack is an universal solution for solar powered IoT projects implementing all commonly required features, such as charging, battery monitoring and voltage regulations, to solve these repeating requirements for a number of projects, creating a cost and convenience benefit for developers and manufacturers of IoT systems. Due to the modular structure one can either use this as a set of modules to be included in the target application or simply pack a mother board with a number of modules required for a particular system.
 
-![IoT modular](IoT-battery-pack-modular.png)
+![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/IoT-battery-pack-modular.png)
 
 The system is broken down into standalone modules one can combine in a number of ways.
 
