@@ -8,3 +8,11 @@ Last revision is v.1.2 available in this repository, while v.1.1 version can wit
 - Modify resistor divider on MPPT charger to set charging voltage to 4,10 V (4,0 at v.1.1)
 
 ![diagram](1.1 v 1.2 mod.png)
+
+## Fuses
+F1 - Battery fuse
+F2 - Battery fuse
+F3 - Battery fuse
+F4 - Battery output fuse 3A
+F5 - Solar input fuse 3A
+F6 - USB input fuse 3A
