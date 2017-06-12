@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IRNAS_MPPT LT3652
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -90,115 +90,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.DRR
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MPPT LT3652.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_Battery protector.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument3]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument4]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument5]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument6]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument7]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument8]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument9]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument10]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument11]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument12]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument14]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.REP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument15]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MPPT LT3652.step
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MPPT LT3652.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MPPT LT3652.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -212,12 +168,12 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IRNAS_MPPT LT3652
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -328,7 +284,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -417,7 +373,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -439,7 +395,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -511,7 +467,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -548,7 +504,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -728,7 +684,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -767,7 +723,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -818,7 +774,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
