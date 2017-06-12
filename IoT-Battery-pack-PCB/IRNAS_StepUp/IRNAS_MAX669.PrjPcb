@@ -39,23 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MAX669 out.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EYNVCUFS
-
-[Document2]
 DocumentPath=MAX669 out.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,6 +54,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDWNKFGP
+
+[Document2]
+DocumentPath=MAX669 out.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EYNVCUFS
 
 [Document3]
 DocumentPath=..\..\..\..\..\AltiumDB\_MACROS\FE2017.OutJob
@@ -90,59 +90,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.DRR
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MAX669.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.EXTREP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBL
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBS
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GKO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTL
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTS
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.LDP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.REP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MAX669.step
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_MAX669.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_MAX669.txt
 DItemRevisionGUID=
 
 [Configuration1]
