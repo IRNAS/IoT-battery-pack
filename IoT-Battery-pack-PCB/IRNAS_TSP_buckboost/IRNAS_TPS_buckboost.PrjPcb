@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IRNAS_TPS_buckboost
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -89,6 +89,124 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=E7735109-6CE9-4261-B93E-FE75509FCAEF
+Description=Variant of IRNAS_TPS_buckboost 3.3V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=IC1|UniqueId=\RHQMUBXR|Kind=0|AlternatePart=TPS63070
+ParamVariation1=ParameterName=Comment|VariantValue=TPS63070
+ParamDesignator1=IC1
+ParamVariation2=ParameterName=Value|VariantValue=TPS63070
+ParamDesignator2=IC1
+ParamVariation3=ParameterName=Vout (TPS63071)|VariantValue=3.3 VDC
+ParamDesignator3=IC1
+ParamVariation4=ParameterName=Supplier Part Number 1|VariantValue=595-TPS63070RNMT
+ParamDesignator4=IC1
+Variation2=Designator=R7|UniqueId=\RETHEJKC|Kind=0|AlternatePart= 
+ParamVariation5=ParameterName=Value|VariantValue=470R
+ParamDesignator5=R7
+Variation3=Designator=R1|UniqueId=\QXKUOWBD|Kind=0|AlternatePart= 
+ParamVariation6=ParameterName=Value|VariantValue=NP
+ParamDesignator6=R1
+Variation4=Designator=LD1|UniqueId=\UUDPXVFS|Kind=0|AlternatePart= 
+ParamVariation7=ParameterName=Value|VariantValue=NP
+ParamDesignator7=LD1
+ParamVariationCount=7
+
+[ProjectVariant2]
+UniqueID=2C3F22D0-4D04-4F7B-81E4-158173006D6E
+Description=Variant of IRNAS_TPS_buckboost 5.0V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=IC1|UniqueId=\RHQMUBXR|Kind=0|AlternatePart=TPS63071
+ParamVariation1=ParameterName=Comment|VariantValue=TPS63071
+ParamDesignator1=IC1
+ParamVariation2=ParameterName=Value|VariantValue=TPS63071
+ParamDesignator2=IC1
+ParamVariation3=ParameterName=Supplier Part Number 1|VariantValue=595-TPS63071RNMT
+ParamDesignator3=IC1
+Variation2=Designator=R7|UniqueId=\RETHEJKC|Kind=0|AlternatePart= 
+ParamVariation4=ParameterName=Value|VariantValue=1k
+ParamDesignator4=R7
+Variation3=Designator=R5|UniqueId=\HOTTXVYW|Kind=0|AlternatePart= 
+ParamVariation5=ParameterName=Value|VariantValue=NP
+ParamDesignator5=R5
+Variation4=Designator=R1|UniqueId=\QXKUOWBD|Kind=0|AlternatePart= 
+ParamVariation6=ParameterName=Value|VariantValue=NP
+ParamDesignator6=R1
+ParamVariationCount=6
+
+[GeneratedDocument1]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_TPS_buckboost.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_TPS_buckboost.step
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_TPS_buckboost.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_TPS_buckboost.txt
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -100,7 +218,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IRNAS_TPS_buckboost
 
 [OutputGroup1]
 Name=Netlist Outputs
