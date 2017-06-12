@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YXMNBIQA
 
 [Document2]
-DocumentPath=MOSFET out.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EBIEGFPT
-
-[Document3]
 DocumentPath=..\..\..\..\..\AltiumDB\_MACROS\FE2017.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,60 +72,81 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document3]
+DocumentPath=MOSFET out.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBIEGFPT
+
 [GeneratedDocument1]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.DRR
+DocumentPath=Project Outputs for IRNAS_MOSFET_out\Design Rule Check - MOSFET out.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.EXTREP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GBL
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GBO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GBP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GBS
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GKO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GTL
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GTO
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GTP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.GTS
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.LDP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.REP
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=ProductionOutput\Gerbers\IRNAS_MOSFET_out.TXT
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProductionOutput\Gerbers\IRNAS_Fuel gauge.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -161,7 +165,7 @@ OutputDir=Project Outputs for IRNAS_MOSFET_out
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -272,7 +276,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -361,7 +365,7 @@ PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -383,7 +387,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -455,7 +459,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -492,7 +496,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -672,7 +676,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -711,7 +715,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -758,11 +762,51 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Kyocera FS-2000D KX
+TargetPrinter=HP LaserJet Professional M1212nf MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
