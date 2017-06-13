@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for IRNAS_powerboard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -161,71 +161,59 @@ DocumentPath=Project Outputs for IRNAS_powerboard\Design Rule Check - _Mainboard
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_powerboard.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_powerboard.step
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=ProductionOutput\Gerbers\IRNAS_powerboard.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=ProductionOutput\Pick_n_Place\IRNAS_powerboard.txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -239,7 +227,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for IRNAS_powerboard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
