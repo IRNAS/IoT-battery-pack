@@ -1,6 +1,10 @@
-### IoT battery pack - modular
+![irnas_logo](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/irnas_logo.png)
+
+# IoT battery pack - modular
 
 This repository contains the design of a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device.
+
+![module_picture](/Pics/IoT_BP_board.jpg)
 
 ## GENERAL DESCRIPTION
 
@@ -50,6 +54,13 @@ General purpose or application specific, simple power routing board that can be 
    * Nodemcu V2 socket
    * SSD1306 display connector
 
+## Connection pinout
+
+In the picture bellow is the diagram of the connector J25 which is a standard header with 2.54 mm pitch and it provides output power and communication pins:
+
+![connection_diagram](/Pics/power_out_connection_diagram.png)
+
+For more information about the board connections please check the [full connection diagram](/Pics/IoT_BP_connectors_pinout.pdf).
 
 ---
 
