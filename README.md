@@ -6,6 +6,7 @@ This repository contains the design of a modular IoT battery pack based on the i
 
 ![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/iot-battery-pack-1.jpg?raw=true)
 ![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/iot-battery-pack-2.jpg?raw=true)
+![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/modular-iot-battery-pack.png?raw=true)
 
 ## GENERAL DESCRIPTION
 
