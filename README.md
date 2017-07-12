@@ -4,8 +4,8 @@
 
 This repository contains the design of a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device.
 
-![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/iot-battery-pack-1.jpg?raw=true)
-![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/iot-battery-pack-2.jpg?raw=true)
+![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/cab1c61998379034fc300a245bfd4489ad2a6266/Pics/iot-battery-pack-1.jpg?raw=true)
+![IoT modular](https://raw.githubusercontent.com/IRNAS/IoT-battery-pack/cab1c61998379034fc300a245bfd4489ad2a6266/Pics/iot-battery-pack-2.jpg)
 ![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/modular-iot-battery-pack.png?raw=true)
 
 ## GENERAL DESCRIPTION
