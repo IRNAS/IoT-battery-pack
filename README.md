@@ -2,7 +2,7 @@
 
 # PiRA - Power in Responsive Applications (IoT battery pack - modular)
 
-This repository contains the design of [PiRA](http://irnas.eu/pira) a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device. It is an open source universal solution for solar powered IoT devices implementing all commonly required features:
+This repository contains the design of [PiRA](http://irnas.eu/pira), a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device. It is an open source universal solution for solar powered IoT devices implementing all commonly required features:
 
 1. charging,
 2. battery monitoring,
