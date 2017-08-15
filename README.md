@@ -1,8 +1,18 @@
 ![irnas_logo](https://github.com/IRNAS/IoT-battery-pack/blob/modular/Pics/irnas_logo.png)
 
-# IoT battery pack - modular
+# PiRA - Power in Responsive Applications (IoT battery pack - modular)
 
-This repository contains the design of a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device.
+This repository contains the design of [PiRA](http://irnas.eu/pira) a modular IoT battery pack based on the integrated version developed for [Safecst Solarcast](https://github.com/IRNAS/Solarcast) sensor device. It is an open source universal solution for solar powered IoT devices implementing all commonly required features:
+
+1. charging,
+2. battery monitoring,
+3. voltage regulation,
+4. power scheduling,
+5. battery protection,
+6. standard LiPo cell usage,
+7. optional on board processor.
+
+This battery pack solution was designed to reduce the development time and costs of bringing IoT devices from idea to functional prototypes.
 
 ![IoT modular](https://github.com/IRNAS/IoT-battery-pack/blob/cab1c61998379034fc300a245bfd4489ad2a6266/Pics/iot-battery-pack-1.jpg?raw=true)
 ![IoT modular](https://raw.githubusercontent.com/IRNAS/IoT-battery-pack/cab1c61998379034fc300a245bfd4489ad2a6266/Pics/iot-battery-pack-2.jpg)
@@ -63,6 +73,20 @@ In the picture bellow is the diagram of the connector J25 which is a standard he
 ![connection_diagram](/Pics/power_out_connection_diagram.png)
 
 For more information about the board connections please check the [full connection diagram](/Pics/IoT_BP_connectors_pinout.pdf).
+
+
+## Instructions on using PiRA battery pack
+
+1. Install 18650 cells (note all must have the same voltage upon installation) or connect an
+external battery pack. Optionally connect the I2C display. 
+2. Press the "Activate battery" button to activate battery pack.
+3. Upon activation the battery pack with the processor is active.
+4. After about 60s the SSID: pira-battery-pack_1 Password: configesp will be available for you to
+connect.
+5. Connect and visit http://192.168.4.1 with your browser.
+6. In "Config" tab enter your WiFi SSID and Password. Save changes and go to Tools -> Connect. If
+settings are correct the battery pack will be connected to the WiFi network.
+7. If the WiFi network is unavailable, the above SSID will appear again.
 
 ---
 
