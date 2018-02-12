@@ -31,7 +31,7 @@ Charging modules provide the interface between a power source and the single cel
 
  * USB charger: Designed to charge via a standard microUSB: 5V/2A
    * auto-disconnect when not plugged in
- * Solar charger: Designed to charge from a solar cell with MPPT : 4.95-32V IN / 2A charging [LT3552](http://www.linear.com/product/LT3652)
+ * Solar charger: Designed to charge from a solar cell with MPPT : 4.95-32V IN / 2A charging [LT3652](http://www.linear.com/product/LT3652)
    * protection diode for panel
    * adjustable MPPT point
 
